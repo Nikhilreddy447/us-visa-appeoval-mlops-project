@@ -1,1 +1,1 @@
-# us-visa-appeoval-mlops-project
+# us-visa-approval-mlops-project
